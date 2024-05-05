@@ -1,0 +1,134 @@
+,Brand,model,description,rating,no_of_reviews,price,category
+0,Oneplus,Oneplus Nord CE4 ,"Celadon Marble, 8GB RAM, 128GB Storage)",0,0,"24,999",mobile
+1,Redmi,Redmi 13C ,"Stardust Black, 6GB RAM, 128GB Storage) | Powered by 4G MediaTek Helio G85 | 90Hz Display | 50MP AI Triple Camera",4.1,"2,939  ","8,699",mobile
+2,realme,realme narzo N53 ,"Feather Gold, 4GB+64GB) 33W Segment Fastest Charging | Slim Smartphone | 90 Hz Smooth Display",4.0,"15,472  ","7,499",mobile
+3,realme,realme narzo N53 ,"Feather Black, 4GB+64GB) 33W Segment Fastest Charging | Slim Smartphone | 90 Hz Smooth Display",4.0,"15,472  ","8,999",mobile
+4,Oneplus,Oneplus Nord CE4 ,"Dark Chrome, 8GB RAM, 256GB Storage)",0,0,"26,999",mobile
+5,realme,realme narzo N53 ,"Feather Gold, 8GB+128GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",4.0,"15,472  ","8,999",mobile
+6,Redmi,Redmi 13C ,"Starfrost White, 4GB RAM, 128GB Storage) | Powered by 4G MediaTek Helio G85 | 90Hz Display | 50MP AI Triple Camera",4.1,"2,939  ","7,699",mobile
+7,OnePlus,OnePlus Nord CE 3 Lite 5G ,"Chromatic Gray, 8GB RAM, 256GB Storage)",4.2,"48,442  ","19,999",mobile
+8,Redmi,Redmi 13C ,"Stardust Black, 4GB RAM, 128GB Storage) | Powered by 4G Mediatek Helio G85 | 90Hz Display | 50MP AI Triple Camera",4.1,"2,939  ","7,699",mobile
+9,Redmi,Redmi 12 5G Jade Black 6GB RAM 128GB ROM,,4.0,"15,942  ","12,999",mobile
+10,realme,realme narzo 60X 5G ,"Stellar Green,6GB,128GB Storage) Up to 2TB External Memory | 50 MP AI Primary Camera | Segments only 33W Supervooc Charge",4.1,"10,353  ","12,499",mobile
+11,Redmi,Redmi 13C ,"Starfrost White, 8GB RAM, 256GB Storage) | Powered by 4G MediaTek Helio G85 | 90Hz Display | 50MP AI Triple Camera",4.1,"2,939  ","10,999",mobile
+12,Vivo,"Vivo V30 5G Smartphone, 8GB RAM 128GB Storage, Peacock Green",,5.0,1  ,"30,930",mobile
+13,Redmi,Redmi 13C 5G ,"Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",4.0,"2,897  ","10,999",mobile
+14,Vivo,Vivo T2x 5G ,"Marine Blue, 128 GB)  6 GB RAM)",4.2,471  ,"12,999",mobile
+15,Xiaomi,Xiaomi 14 ,"Black, 12GB RAM, 512GB Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS",4.2,62  ,"69,999",mobile
+16,HP,HP Laptop 15s,HP Laptop 15s,4.1,"1,751  ","37,290",laptop
+17,Dell,Dell 14 Laptop,Dell 14 Laptop,3.8,468  ,"34,990",laptop
+18,ASUS,ASUS VivoBook 15 (2021),ASUS VivoBook 15 (2021),3.9,"1,417  ","19,990",laptop
+19,Samsung,"Samsung Galaxy Book2 (NP750) Intel 12th Gen core i5 39.6cm (15.6"") FHD Thin & Light Laptop (8 GB/512 GB/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg)","Samsung Galaxy Book2 (NP750) Intel 12th Gen core i5 39.6cm (15.6"") FHD Thin & Light Laptop (8 GB/512 GB/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg)",4.2,202  ,"48,160",laptop
+20,ASUS,ASUS Vivobook 15,ASUS Vivobook 15,4.0,544  ,"38,990",laptop
+21,Lenovo,"Lenovo V15 Intel Celeron N4500 15.6"" (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/256GB SSD/Windows 11 Home/Black/1Y Onsite/1.7 kg)","Lenovo V15 Intel Celeron N4500 15.6"" (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/256GB SSD/Windows 11 Home/Black/1Y Onsite/1.7 kg)",3.7,242  ,"20,595",laptop
+22,HP,HP Laptop 15s,HP Laptop 15s,4.1,"1,751  ","53,990",laptop
+23,TECNO,TECNO MEGABOOK T1,TECNO MEGABOOK T1,4.0,697  ,"23,990",laptop
+24,Lenovo,"Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6"" HD Thin and Light Laptop (16GB/512GB SSD/Windows 11 Home/MS Office 2021/Cloud Grey/1.61Kg)","Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6"" HD Thin and Light Laptop (16GB/512GB SSD/Windows 11 Home/MS Office 2021/Cloud Grey/1.61Kg)",4.1,"1,719  ","40,490",laptop
+25,Lenovo,"Lenovo V15 AMD Ryzen 3 7320U 15.6"" (39.62cm) FHD 250 Nits Antiglare Thin and Light Laptop (8GB/512GB SSD/Windows 11 Home/Arctic Grey/1.65 Kg)","Lenovo V15 AMD Ryzen 3 7320U 15.6"" (39.62cm) FHD 250 Nits Antiglare Thin and Light Laptop (8GB/512GB SSD/Windows 11 Home/Arctic Grey/1.65 Kg)",4.1,19  ,"26,449",laptop
+26,Chuwi,Chuwi HeroBook Pro 14.1'' Intel Celeron N4020 Laptop with 8GB RAM,Chuwi HeroBook Pro 14.1'' Intel Celeron N4020 Laptop with 8GB RAM,3.9,"3,940  ","16,990",laptop
+27,Acer,Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (Windows 11 Home/8 GB RAM/512GB SSD) AL15-52,Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (Windows 11 Home/8 GB RAM/512GB SSD) AL15-52,4.0,662  ,"31,990",laptop
+28,HP,HP Laptop 15s,HP Laptop 15s,4.1,"1,292  ","32,054",laptop
+29,ASUS,ASUS Vivobook 14,ASUS Vivobook 14,4.1,148  ,"31,490",laptop
+30,HONOR,HONOR MagicBook X16 (2024),HONOR MagicBook X16 (2024),4.2,316  ,"46,990",laptop
+31,HP,HP Victus Gaming Laptop,HP Victus Gaming Laptop,3.9,234  ,"48,990",laptop
+32,GRECIILOOKS,not applicable,Women's Top,4.0,85,349,clothing
+33,Leriya Fashion,not applicable,Women Co Ord Set | Ribbed Pajama Set | Casual Wear Pant Top Set | Fancy Co-Ord Set | Pack of 2 | Drop Shoulder Knit Top & Capris Pants Set | Full Pair Set |,3.8,35,499,clothing
+34,KOTTY,not applicable,Women Polyester Blend Solid Trousers,3.7,"5,850",299,clothing
+35,Ada,not applicable,Hand Embroidered Lucknow Chikankari White Cotton Short Kurti Top Tunic for Women A208704,4.2,588,"1,389",clothing
+36,Ada,not applicable,Women's Hand Embroidered Lucknow Chikankari Pure Cotton Kurti Straight Kurta A341075,4.2,632,"1,789",clothing
+37,arriva fab,not applicable,Women's Chanderi Silk Embroidered Kurta Set with Jacquard Duppata,4.0,410,999,clothing
+38,QUEEN SHIELD,not applicable,Women's Knee Length Rayon Chikan-Kari KurtaKurti (QS_6631),4.2,179,949.,clothing
+39,GO COLORS,not applicable,Women Mid Rise Kurti Pant,4.2,715,799,clothing
+40,Aahwan,not applicable,Women's & Girls' Solid Ribbed Square Neck Tank Tops,3.7,"2,662",289,clothing
+41,Leriya Fashion,not applicable,Western Dress || Rayon Solid Button Front Shirt Dress for Women || Roll Tab Sleeve & Collared Neck Flared Dress || Office || Summer Short Dresses for Women.,3.2,"2,029",359,clothing
+42,FIORRA,not applicable,Women's Maroon Poly Crepe A-Line Kurta Set With Dupatta,4.0,"5,717",829,clothing
+43,DHRUVI TRENDZ,not applicable,Women Regular Fit Rayon Dress,3.8,380,379,clothing
+44,GRECIILOOKS,not applicable,Women Rayon Coord Set,3.9,111,579,clothing
+45,Wedani,not applicable,Women's Casual Puff Sleeves V Neck Foral Top,3.1,"1,252",179,clothing
+46,KOTTY,not applicable,Women's Solid Relaxed Fit Full Sleeve Co-ord Blazer and Trouser Set.,3.6,593,739,clothing
+47,Leriya Fashion,not applicable,Ethnic Co Ord Set for Women Kurta Set for Women | 2 Piece Kurta Set | Kurta with Pant for Women | Co-ord Set,3.6,87,549,clothing
+48,Jockey,not applicable,AW87 Women's Super Combed Cotton Elastane Stretch Leggings with Ultrasoft Waistband,4.2,898,549,clothing
+49,CHKOKKO,not applicable,Double Layered Sports Gym Workout Running Shorts for Women,4.1,"2,056",498,clothing
+50,KLOSIA,not applicable,Women Viscose Printed Kurti Pant and Dupatta Set,3.9,"2,538",639,clothing
+51,Leriya Fashion,not applicable,3-Piece co ord Set for Women| Winter Co-ord Set for Women | Formal co ord Set for Women| Blazer co ord Set for Women,3.9,124,639,clothing
+52,Alan Jones Clothing,not applicable,Solid Women's Relaxed Fit Wide Legs Track Pant,2.5,2,499,clothing
+53,Leriya Fashion,not applicable,Dress for Women Midi | One Piece Dress for Women | Beach Dress for Women,3.6,162,429,clothing
+54,Leriya Fashion,not applicable,Western Dress || Rayon Color Block Half Button Front Dress for Women || Long Cuff Sleeve & Stand Collared Neck Tunic Dress || Office || Summer Dresses for Women.,3.1,433,359,clothing
+55,Fabricorn,not applicable,Combo of Plain Color Stylish Up and Down Cotton Tshirt for Women,3.9,"12,832",399,clothing
+56,Alan Jones Clothing,not applicable,Women Solid Stretch Staight Pants,0,0,649,clothing
+57,HSR,not applicable,Winter Warm Thermal Fleece Lined Thick Tights Women Slim Fit Leggings Pants Waist Size : 26 to 34 Inch Stretchable,4.3,"2,753",399,clothing
+58,Leriya Fashion,not applicable,Oversized Corp Shirt for Women | Crop Shirt for Women Stylish Western | Short Shirt for Women,4.7,47,349,clothing
+59,POPWINGS,not applicable,Women Casual White Solid Twill Joggers | Women Regular Joggers | Women Relaxed Fit Joggers,3.2,82,364,clothing
+60,Jockey,not applicable,1529 Women's High Coverage Super Combed Cotton Elastane Stretch Mid Waist Shorties with Concealed Waistband,4.3,"10,283",329,clothing
+61,ANNI DESIGNER,not applicable,Women Cotton Blend Kurta with Palazzo,3.8,625,489,clothing
+62,rytras,not applicable,Women's Floral Printed Cotton Top,4.0,"1,425",469,clothing
+63,ADDYVERO,not applicable,Women's Slim Fit Casual Trousers,4.1,"10,031",379,clothing
+64,ANNI DESIGNER,not applicable,Women's Cotton Blend Straight Printed Kurta & Pant,3.6,"7,378",489,clothing
+65,Jockey,not applicable,2503 Women's Super Combed Cotton Rich Three Quarter Sleeve Thermal Top with Stay Warm Technology,4.1,"5,055",599,clothing
+66,CHKOKKO,not applicable,Women Round Neck Dry Regular Fit Gym Sports Printed T-Shirt,4.5,20,389,clothing
+67,London Hills,not applicable,Women Sports Zipper Running Summer Track Suit for Women | Sports TrackSuit for Women,3.6,19,999,clothing
+68,Facto Power,not applicable,"Women's Lightly Removable Padded, Wire Free Tube Bra, for Running, Athletics, Excercise, Gym Beige",3.1,9,104,clothing
+69,KOTTY,not applicable,Women High Rise Cotton Lycra Solid Regular Fit Jeans,3.4,418,499,clothing
+70,BLINKIN,not applicable,Gym wear Mesh Leggings Workout Pants with Side Pockets/Stretchable Tights/Highwaist Sports Fitness Yoga Track Pants for Women & Girls_2012,4.2,"4,424",399,clothing
+71,SHAUN,not applicable,Women's Regular Fit Track Pants,4.0,"2,662",799,clothing
+72,GoSriKi,not applicable,Women's Cotton Blend Solid Anarkali Kurta Set With Dupatta,3.7,454,679,clothing
+73,Facto Power,not applicable,"Women's Lightly Removable Padded, Wire Free Seamless Sports Bra, for Running, Athletics, Excercise, (Free Size (Suitable Upto 32))",3.0,9,104,clothing
+74,PALAY,not applicable,Woman Sun Protection Hoodie Jacket Lightweight UPE50+ Sun Blocking Coat with Pocket Long Sleeve Shirt Hiking Outdoor with Face Mask,4.1,6,924,clothing
+75,ANNI DESIGNER,not applicable,Women's Co-Ord Set,5.0,8,469,clothing
+76,OM SAI LATEST CREATION,not applicable,Women's Regular Knee Length Short Jumpsuit,3.5,"1,351",289,clothing
+77,MEERA FAB,not applicable,Women's Cotton Printed Anarkali Kurta With Palazzo & Dupatta Set,3.9,"5,490",844,clothing
+78,BLINKIN,not applicable,Women Slim Fit Polyester Blend Track Pants,4.2,869,379,clothing
+79,CUPID,not applicable,"Regular Fit Printed Cotton Comfortable Plus Size Night Track Pant, Lower, Trouser, Joggers for Lounge Wear n Gym Wear for Girls",4.1,253,779.,clothing
+80,GRECIILOOKS,not applicable,Women Rayon Coord Set,3.4,142,599,clothing
+81,Jockey,not applicable,2520 Women's Super Combed Cotton Rich Thermal Leggings with Stay Warm Technology,4.3,"4,504",639,clothing
+82,Generic,not applicable,Zicada Women's Top & Bottom Set Gym Wear | Jogging Wear | Sports Running Suits For womens,4.3,8,499,clothing
+83,Pistaa's,not applicable,Women's Regular Fit Cotton Palazzo,3.7,526,549,clothing
+84,KLOSIA,not applicable,Women Viscose Embroidered Kurti Pant and Dupatta Set,3.9,"1,677",599,clothing
+85,Lymio,not applicable,Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt (D-Crush-16-23),3.8,636,379,clothing
+86,Lymio,not applicable,Track Pant for Men || Track Pants || Plain Track Pant (Track-06-08),3.7,528,449,clothing
+87,U-TURN,not applicable,Men's Cotton Solid Formal/Semi Formal Shirt,3.6,423,398,clothing
+88,Lymio,not applicable,Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt (Rib-Shirt),4.0,279,479,clothing
+89,LEOTUDE,not applicable,Men's Solid Half Sleeve with Regular Fit Knitted T-Shirt (Color Beige),3.3,23,289,clothing
+90,DHRUVI TRENDZ,not applicable,Men's Regular Fit Shirt,3.4,"1,107",289,clothing
+91,DENIMHOLIC,not applicable,Men's Cotton Turtle Neck Sweater,4.0,"5,422",899,clothing
+92,Leriya Fashion,not applicable,Shirt for Men | Tropical Leaf Printed Rayon Shirts for Men | Preppy Short Sleeves | Spread Collared Neck | Perfect for Outing | Beach | Camp Wear Shirt for Boys,3.6,"1,429",289,clothing
+93,Lymio,not applicable,Men T-Shirt || Regular Fit T-Shirt for Men || Plain T Shirt || T-Shirt (Polo-11-13),4.1,137,349,clothing
+94,Lymio,not applicable,Men Pants,3.6,245,449,clothing
+95,Lymio,not applicable,Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men (Cargo-05-08),4.2,468,699,clothing
+96,NEVER LOSE,not applicable,Mens 2 Pack Polyester Yoga Short Men Summer Running Gym Sports Shorts with Pockets Shorts for Men,3.6,"1,022",719,clothing
+97,Lymio,not applicable,Men's Trouser || Men's Regular Trouser || Men's Regular Fit Casual Trouser (Tro-05-08),3.8,202,699,clothing
+98,Dennis Lingo,not applicable,"Men's Solid Slim Fit Casual Shirt, Full Sleeve Shirt for Casual Wear & Formal Wear (Also Available in Plus Size)",3.8,"13,879",554,clothing
+99,LEOTUDE,not applicable,Regular Fit Half Sleeve Round Neck Dri-Fit Tshirt for Men's Combo (Pack of 3),4.0,45,499,clothing
+100,CHKOKKO,not applicable,Men Round Neck Regular Dry Fit Gym Sports Slim Fit T-Shirt,3.9,"1,992",349,clothing
+101,Allen Solly,not applicable,Men's Regular Fit Polo,4.1,"68,508",699,clothing
+102,Unbeatable,not applicable,Polyester Spandex Men's Sports Running Set Compression Shirt + Pants Skin-Tight Long Sleeves Quick Dry Fitness Tracksuit Gym Yoga Suits,3.7,"1,439",499,clothing
+103,London Hills,not applicable,Full Sleeve Polyester Full Zip with Pocket Solid Men's Sports Track Standard Length Jacket,4.0,140,419,clothing
+104,Lymio,not applicable,Men Regular Fit T-Shirt || Regular Fit T-Shirt || Plain T Shirt || Regular Fit T-Shirt (Rib),3.6,"2,770",349,clothing
+105,Alan Jones Clothing,not applicable,Men's Solid Slim Fit Polo T-Shirt,4.1,122,469,clothing
+106,NEVER QUIT,not applicable,Double Layer 2 in 1 Sports Shorts with Inner Tights for Men Gym Tight Short with Pocket,4.1,7,407,clothing
+107,Lymio,not applicable,Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men (Cargo-01-04),3.9,918,649,clothing
+108,Zexer,not applicable,Men Men Compression T-Shirt Gym and Sports Wear T-Shirt for Men | Body fit Skinny T-Shirt (Black,3.9,482,369,clothing
+109,SELLORIA,not applicable,Brand Soft Cotton Adjustable Unisex Cap for Men and Women Freesize Baseball Caps (Pack of 2),3.5,120,199,clothing
+110,U.S. POLO ASSN.,not applicable,Men's Panelled Comfort Fit I669 Lounge Track Pants - Pack of 1,4.0,"1,347","1,049",clothing
+111,JUGULAR,not applicable,Men's Cotton Solid Men Stylish Cargo Black Track Pants,3.7,"7,337",479,clothing
+112,Puma,not applicable,Men Regular Fit Tee,4.0,141,"1,259",clothing
+113,EYEBOGLER,not applicable,Mens Dry Fit Round Neck Full Sleeve Casual Tshirt,3.3,290,219,clothing
+114,Leriya Fashion,not applicable,Night Dress for Men || Rayon Multi Printed Night Dress for Women || Summer & Beach Wear for Men || Sleepwear Pajama Set for Men || Vacation || Travel Wear,3.6,87,479,clothing
+115,Lux Cott's Wool,not applicable,Men's Cotton Thermal Set,4.0,"5,723",799,clothing
+116,Lux Cott's Wool,not applicable,Lux Cottswool Men's Thermal Top and Lower Set,4.1,825,740,clothing
+117,fanideaz,not applicable,Men’s Full Sleeve Cotton Stylish High Neck Bomber Jacket,3.8,17,799,clothing
+118,Lymio,not applicable,Men Cord Set || T-Shirt and Shorts Set for Men || Men's Pyjama Set (SET-01-03),3.9,44,629,clothing
+119,London Hills,not applicable,Men Polyester Full Sleeve Solid Standard Length Sports Jacket,4.2,88,419,clothing
+120,Facto Power,not applicable,"Women's Lightly Removable Padded, Wire Free Tube Bra, for Running, Athletics, Excercise, Gym Beige",3.1,9,104,clothing
+121,Ben Martin,not applicable,Men's Casual Stretchable Denim Tapered Fit Carrot Jeans_1,2.9,419,699,clothing
+122,CHKOKKO,not applicable,Men Printed Gym Tank Tops Sports Sleeveless Vest,4.1,344,299,clothing
+123,LEOTUDE,not applicable,Men's Cottonblend Oversized Half Sleeve Round Neck Regular Fit T-shirt,3.5,107,279,clothing
+124,Lymio,not applicable,Casual Shirt for Men|| Regular Fit Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Crush-Lining),3.8,76,429,clothing
+125,Generic,not applicable,Uptown Funk Men's Slim Fit Solid Full Elastic Sport Wear Running Gym Stretchable Jogger Track Pant,4.7,5,649,clothing
+126,GRECIILOOKS,not applicable,Men Regular Fit Casual Shirt,3.8,133,399,clothing
+127,DHRUVI TRENDZ,not applicable,Men Pajama Set,3.4,"1,019",479,clothing
+128,Alan Jones Clothing,not applicable,Men's Cotton Colorblocked Sleeveless T-Shirt,4.3,55,329,clothing
+129,ATICX,not applicable,"Men's Slim Fit Polyester Sleeveless T Shirt - Sando Top Tank Muscle Tee for Sports, Gym, Running",4.0,777,399,clothing
+130,LEOTUDE,not applicable,"Men Half Sleeve Oversized Tshirt, Round Neck Longline Drop Shoulder | Colorful Printed Combo Regular Fit T-Shirt (Pack Of 3)",3.6,173,699,clothing
+131,GRECIILOOKS,not applicable,Men Regular Fit Casual Shirt,3.8,217,479,clothing
+132,Alan Jones Clothing,not applicable,Men's Cotton Hooded Neck Hoodies,4.0,"1,154",649,clothing
